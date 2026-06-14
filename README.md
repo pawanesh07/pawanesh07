@@ -1,9 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%20I'm%20Pawanesh%20Pandey&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20%26%20Automation%20Enthusiast&descAlignY=55&animation=twinkling" />
-</p>
+<div align="center">
+
+# Hi 👋 I'm Pawanesh Pandey
+
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20Pawanesh%20Pandey&fontSize=35&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=55&animation=twinkling)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Python+%26+Automation+Specialist+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+Builder+%F0%9F%A7%A0;Learning+DSA+%26+System+Design+%F0%9F%93%88" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Python+%26+Automation+Specialist+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+Builder+%F0%9F%A7%A0;Learning+DSA+%26+System+Design+%F0%9F%93%88" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -11,6 +15,8 @@
   <img src="https://img.shields.io/github/followers/pawanesh07?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   <img src="https://img.shields.io/github/stars/pawanesh07?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
+
+</div>
 
 ---
 
